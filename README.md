@@ -10,7 +10,7 @@
 - 📫 How to reach me: :email: luozhiyao933@126.com; :email: E0452733@u.nus.edu
  
 - :scientist: Repo highlight: 
--     PRIMAL2: https://github.com/marmotlab/PRIMAL2
+              PRIMAL2: https://github.com/marmotlab/PRIMAL2
 ![](https://github-readme-stats.vercel.app/api?username=GilesLuo)
 <!--
 **GilesLuo/GilesLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
