@@ -15,6 +15,8 @@
 
 [![wakatime](https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg)](https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly)
 <!--
+=for html <a href="https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly"><img src="https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg"></a>
+
 **GilesLuo/GilesLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
