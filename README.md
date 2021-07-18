@@ -12,6 +12,8 @@
 - 💬 To view my publications: https://scholar.google.com/citations?user=g65Ry78AAAAJ&hl
  
 ![](https://github-readme-stats.vercel.app/api?username=GilesLuo)
+
+https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg
 <!--
 **GilesLuo/GilesLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
