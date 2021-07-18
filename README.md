@@ -13,7 +13,7 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=GilesLuo)
 
-https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg
+[![wakatime](https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg)](https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly)
 <!--
 **GilesLuo/GilesLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
