@@ -10,12 +10,8 @@
 - 📫 How to reach me: :email: zhiyao.luo@eng.ox.ac.uk; :email: E0452733@u.nus.edu
 
 - 💬 To view my publications: https://scholar.google.com/citations?user=g65Ry78AAAAJ&hl
- 
+      My story https://www.oxfordsparks.ox.ac.uk/scientists/zhiyao-luo/
 ![](https://github-readme-stats.vercel.app/api?username=GilesLuo)
-
-[![wakatime](https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg)](https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly)
-<!--
-=for html <a href="https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly"><img src="https://wakatime.com/badge/github/GilesLuo/Generative-3D-Part-Assembly.svg"></a>
 
 **GilesLuo/GilesLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
