@@ -10,19 +10,7 @@
 - 📫 How to reach me: :email: zhiyao.luo@eng.ox.ac.uk; :email: E0452733@u.nus.edu
 
 - 💬 To view my publications: https://scholar.google.com/citations?user=g65Ry78AAAAJ&hl
-      My story https://www.oxfordsparks.ox.ac.uk/scientists/zhiyao-luo/
+
+- 💬 My story https://www.oxfordsparks.ox.ac.uk/scientists/zhiyao-luo/
+     
 ![](https://github-readme-stats.vercel.app/api?username=GilesLuo)
-
-**GilesLuo/GilesLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
